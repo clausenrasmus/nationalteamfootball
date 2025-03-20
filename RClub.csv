@@ -1,0 +1,76 @@
+NrValue;Team;Leauge;SquadSize;AgeMean;Top18Value;ValueMean;LogValueMean;EloRanking;LogEloRanking
+1;Manchester City;England Premier League;22;26,80;1220,00;67,78;1,83;2050,00;3,31
+2;Arsenal FC;England Premier League;25;25,60;1040,00;57,78;1,76;1941,00;3,29
+3;Real Madrid;Spain LaLiga;24;27,30;995,00;55,28;1,74;1968,00;3,29
+4;Paris Saint-Germain;France Ligue 1;29;25,50;937,00;52,06;1,72;1911,00;3,28
+5;Bayern Munich;Germany Bundesliga;27;26,70;874,00;48,56;1,69;1920,00;3,28
+6;Liverpool FC;England Premier League;28;25,70;839,00;46,61;1,67;1923,00;3,28
+7;Chelsea FC;England Premier League;30;23,60;796,00;44,22;1,65;1791,00;3,25
+8;FC Barcelona;Spain LaLiga;26;24,90;794,00;44,11;1,64;1870,00;3,27
+9;Tottenham Hotspur;England Premier League;26;25,50;689,20;38,29;1,58;1825,00;3,26
+10;Manchester United;England Premier League;27;26,60;652,00;36,22;1,56;1800,00;3,26
+11;Inter Milan;Italy Serie A;25;29,10;601,00;33,39;1,52;1973,00;3,30
+12;Aston Villa;England Premier League;27;26,30;588,50;32,69;1,51;1846,00;3,27
+13;Newcastle United;England Premier League;28;27,50;584,00;32,44;1,51;1818,00;3,26
+14;Bayer 04 Leverkusen;Germany Bundesliga;27;24,80;565,50;31,42;1,50;1921,00;3,28
+15;AC Milan;Italy Serie A;26;26,60;513,50;28,53;1,46;1870,00;3,27
+16;SSC Napoli;Italy Serie A;26;27,00;483,50;26,86;1,43;1805,00;3,26
+17;RB Leipzig;Germany Bundesliga;24;25,30;483,50;26,86;1,43;1842,00;3,27
+18;Juventus FC;Italy Serie A;27;26,60;451,00;25,06;1,40;1826,00;3,26
+19;Real Sociedad;Spain LaLiga;28;25,70;445,30;24,74;1,39;1763,00;3,25
+20;Brighton & Hove Albion;England Premier League;27;25,60;444,50;24,69;1,39;1755,00;3,24
+21;West Ham United;England Premier League;22;28,60;443,70;24,65;1,39;1765,00;3,25
+22;Borussia Dortmund;Germany Bundesliga;28;25,70;423,30;23,52;1,37;1890,00;3,28
+23;Atlético de Madrid;Spain LaLiga;25;28,80;393,50;21,86;1,34;1828,00;3,26
+24;Crystal Palace;England Premier League;28;26,40;386,00;21,44;1,33;1701,00;3,23
+25;Brentford FC;England Premier League;30;25,70;381,00;21,17;1,33;1725,00;3,24
+26;SL Benfica;Portugal Liga Portugal;24;24,70;341,00;18,94;1,28;1790,00;3,25
+27;Nottingham Forest;England Premier League;28;26,90;337,00;18,72;1,27;1661,00;3,22
+28;Atalanta BC;Italy Serie A;25;26,60;332,50;18,47;1,27;1835,00;3,26
+29;Wolverhampton Wanderers;England Premier League;24;25,30;332,00;18,44;1,27;1724,00;3,24
+30;Everton FC;England Premier League;25;27,30;331,80;18,43;1,27;1691,00;3,23
+31;Fulham FC;England Premier League;24;28,10;322,00;17,89;1,25;1735,00;3,24
+32;AFC Bournemouth;England Premier League;26;25,80;318,50;17,69;1,25;1707,00;3,23
+33;Sporting CP;Portugal Liga Portugal;26;25,30;315,80;17,54;1,24;1797,00;3,25
+34;AS Monaco;Monaco Ligue 1;24;24,40;312,00;17,33;1,24;1736,00;3,24
+35;PSV Eindhoven;Netherlands Eredivisie;27;25,10;304,00;16,89;1,23;1792,00;3,25
+36;Feyenoord Rotterdam;Netherlands Eredivisie;27;23,90;294,50;16,36;1,21;1752,00;3,24
+37;AS Roma;Italy Serie A;26;27,00;286,00;15,89;1,20;1833,00;3,26
+38;VfB Stuttgart;Germany Bundesliga;28;24,40;267,50;14,86;1,17;1786,00;3,25
+39;FC Porto;Portugal Liga Portugal;27;26,70;263,50;14,64;1,17;1769,00;3,25
+40;Stade Rennais FC;France Ligue 1;24;24,40;258,50;14,36;1,16;1704,00;3,23
+41;Athletic Bilbao;Spain LaLiga;25;27,30;251,00;13,94;1,14;1761,00;3,25
+42;OGC Nice;France Ligue 1;28;24,10;250,00;13,89;1,14;1685,00;3,23
+43;Girona FC;Spain LaLiga;23;27,00;240,30;13,35;1,13;1761,00;3,25
+44;Bologna FC 1909;Italy Serie A;27;24,60;234,95;13,05;1,12;1782,00;3,25
+45;LOSC Lille;France Ligue 1;25;25,30;234,25;13,01;1,11;1758,00;3,25
+46;Eintracht Frankfurt;Germany Bundesliga;35;24,20;226,50;12,58;1,10;1695,00;3,23
+47;Burnley FC;England Premier League;29;25,20;221,00;12,28;1,09;1629,00;3,21
+48;ACF Fiorentina;Italy Serie A;28;25,80;219,80;12,21;1,09;1743,00;3,24
+49;Olympique Lyon;France Ligue 1;28;25,50;212,00;11,78;1,07;1693,00;3,23
+50;SS Lazio;Italy Serie A;27;27,50;212,00;11,78;1,07;1765,00;3,25
+51;Olympique Marseille;France Ligue 1;26;26,10;209,50;11,64;1,07;1741,00;3,24
+52;Valencia CF;Spain LaLiga;25;24,00;207,90;11,55;1,06;1702,00;3,23
+53;Leicester City;England Championship;25;26,20;201,00;11,17;1,05;1649,00;3,22
+54;VfL Wolfsburg;Germany Bundesliga;28;25,00;200,40;11,13;1,05;1649,00;3,22
+55;Red Bull Salzburg;Austria Bundesliga;31;22,20;199,00;11,06;1,04;1666,00;3,22
+56;Ajax Amsterdam;Netherlands Eredivisie;32;23,10;194,50;10,81;1,03;1624,00;3,21
+57;Leeds United;England Championship;26;24,40;193,80;10,77;1,03;1648,00;3,22
+58;Villarreal CF;Spain LaLiga;29;28,30;193,70;10,76;1,03;1712,00;3,23
+59;RC Lens;France Ligue 1;27;26,30;187,20;10,40;1,02;1729,00;3,24
+60;Fenerbahce;Türkiye Süper Lig;27;28,40;185,30;10,29;1,01;1708,00;3,23
+61;Galatasaray;Türkiye Süper Lig;28;26,30;181,50;10,08;1,00;1713,00;3,23
+62;Sevilla FC;Spain LaLiga;28;27,40;177,50;9,86;0,99;1688,00;3,23
+63;Southampton FC;England Championship;25;25,60;176,90;9,83;0,99;1617,00;3,21
+64;Real Betis Balompié;Spain LaLiga;26;28,40;173,40;9,63;0,98;1687,00;3,23
+65;Borussia Mönchengladbach;Germany Bundesliga;31;25,60;173,00;9,61;0,98;1670,00;3,22
+66;Torino FC;Italy Serie A;25;25,60;171,30;9,52;0,98;1725,00;3,24
+67;SC Freiburg;Germany Bundesliga;28;26,30;170,20;9,46;0,98;1706,00;3,23
+68;1.FC Union Berlin;Germany Bundesliga;25;27,40;133,40;7,41;0,87;1657,00;3,22
+69;Club Brugge KV;Belgium Jupiler Pro League;27;24,90;132,80;7,38;0,87;1714,00;3,23
+70;TSG 1899 Hoffenheim;Germany Bundesliga;28;25,40;129,30;7,18;0,86;1651,00;3,22
+71;Sheffield United;England Premier League;29;26,00;128,20;7,12;0,85;1565,00;3,19
+72;Genoa CFC;Italy Serie A;27;26,20;128,10;7,12;0,85;1665,00;3,22
+73;US Sassuolo;Italy Serie A;27;26,30;127,00;7,06;0,85;1610,00;3,21
+74;SC Braga;Portugal Liga Portugal;24;27,10;125,00;6,94;0,84;1635,00;3,21
+75;Shaktar Donetsk;Ukranian Premier Liga;32;23,60;124,20;6,90;0,84;1611,00;3,21
